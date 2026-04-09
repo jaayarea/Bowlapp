@@ -1,0 +1,5 @@
+{
+  "name": "Wicked Pins: Bowling Counter",
+  "description": "A dark neon bowling score tracker with real-time maximum possible score calculation and export functionality.",
+  "requestFramePermissions": []
+}
